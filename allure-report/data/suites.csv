@@ -1,0 +1,5 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","7617","Verify login page visibility","","2026-02-24","passed","2026-02-24","","Login Functionality","Verify login page visibility",""
+"","19552","Add product to cart","","2026-02-24","passed","2026-02-24","","Add to Cart","Add product to cart",""
+"","17","Detect SQL Injection","","2026-02-24","passed","2026-02-24","","Security Validation","Detect SQL Injection",""
+"","3297","Verify product API","","2026-02-24","passed","2026-02-24","","API Testing","Verify product API",""

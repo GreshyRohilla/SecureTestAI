@@ -1,0 +1,5 @@
+"BROKEN","EPIC","FAILED","FEATURE","PASSED","SKIPPED","STORY","UNKNOWN"
+"0","","0","Login Functionality","1","0","Verify login page visibility","0"
+"0","","0","Add to Cart","1","0","Add product to cart","0"
+"0","","0","Security Validation","1","0","Detect SQL Injection","0"
+"0","","0","API Testing","1","0","Verify product API","0"
